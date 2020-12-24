@@ -1,0 +1,26 @@
+no. of hidden layers = 1 ----- no. of nodes/hidden layer = [2] ----- accuracy = 91.8%
+no. of hidden layers = 1 ----- no. of nodes/hidden layer = [3] ----- accuracy = 100.0%
+no. of hidden layers = 1 ----- no. of nodes/hidden layer = [4] ----- accuracy = 100.0%
+no. of hidden layers = 1 ----- no. of nodes/hidden layer = [5] ----- accuracy = 100.0%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [2, 2] ----- accuracy = 100.0%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [3, 4] ----- accuracy = 100.0%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [4, 2] ----- accuracy = 100.0%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [4, 6] ----- accuracy = 100.0%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [1, 5] ----- accuracy = 75.8%
+no. of hidden layers = 2 ----- no. of nodes/hidden layer = [3, 5] ----- accuracy = 100.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [3, 5, 7] ----- accuracy = 100.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [2, 2, 2] ----- accuracy = 49.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [2, 5, 2] ----- accuracy = 49.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [3, 5, 4] ----- accuracy = 100.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [4, 6, 7] ----- accuracy = 100.0%
+no. of hidden layers = 3 ----- no. of nodes/hidden layer = [4, 6, 2] ----- accuracy = 100.0%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [4, 6, 2, 3] ----- accuracy = 100.0%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [4, 3, 3, 5] ----- accuracy = 50.6%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [4, 3, 6, 5] ----- accuracy = 100.0%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [3, 4, 5, 6] ----- accuracy = 50.6%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [3, 4, 4, 3] ----- accuracy = 50.6%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [4, 4, 4, 4] ----- accuracy = 25.6%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [6, 4, 5, 7] ----- accuracy = 100.0%
+no. of hidden layers = 4 ----- no. of nodes/hidden layer = [8, 4, 8, 7] ----- accuracy = 100.0%
+no. of hidden layers = 5 ----- no. of nodes/hidden layer = [8, 4, 8, 7, 9] ----- accuracy = 25.6%
+no. of hidden layers = 5 ----- no. of nodes/hidden layer = [15, 20, 14, 13, 15] ----- accuracy = 25.6%
